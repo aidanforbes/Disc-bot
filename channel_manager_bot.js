@@ -4,7 +4,7 @@
 
 const { Client, GatewayIntentBits, PermissionFlagsBits, SlashCommandBuilder, REST, Routes } = require("discord.js");
 
-const TOKEN = "MTQ4MzU1MTcwMzQxOTcxOTk2Ng.GWvbSI.6HVYre";
+const TOKEN = "MTQ4MzU1MTcwMzQxOTcxOTk2Ng.GWvbSI.GK_0i_.fnc_5LMetyMQL5N4jwS6iNGvTBIfClfxVwP_TU";
 const CLIENT_ID = "1483551703419719966";
 
 const client = new Client({
