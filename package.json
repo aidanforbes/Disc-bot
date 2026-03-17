@@ -1,0 +1,11 @@
+{
+  "name": "channel-manager-bot",
+  "version": "1.0.0",
+  "main": "channel_manager_bot.js",
+  "scripts": {
+    "start": "node channel_manager_bot.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.0.0"
+  }
+}
